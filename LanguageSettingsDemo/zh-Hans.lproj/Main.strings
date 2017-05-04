@@ -1,0 +1,38 @@
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "0Qh-K0-EVP"; */
+"0Qh-K0-EVP.title" = "我的";
+
+/* Class = "UILabel"; text = "简体中文"; ObjectID = "3nb-EJ-IAj"; */
+"3nb-EJ-IAj.text" = "简体中文";
+
+/* Class = "UILabel"; text = "跟随手机系统"; ObjectID = "4i0-iS-35i"; */
+"4i0-iS-35i.text" = "跟随手机系统";
+
+/* Class = "UITableViewController"; title = "多语言"; ObjectID = "Q7B-BM-XLl"; */
+"Q7B-BM-XLl.title" = "多语言";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Z6C-gL-kTZ"; */
+"Z6C-gL-kTZ.text" = "English";
+
+/* Class = "UITabBarItem"; title = "发现"; ObjectID = "bmZ-og-b3p"; */
+"bmZ-og-b3p.title" = "发现";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "eRH-Xd-Ebm"; */
+"eRH-Xd-Ebm.title" = "首页";
+
+/* Class = "UIButton"; normalTitle = "设置"; ObjectID = "tah-mQ-96y"; */
+"tah-mQ-96y.normalTitle" = "设置";
+
+//##################################################################################
+//#           StoryboardAutoGenStrings        2017-05-04 18:03:57
+//##################################################################################
+
+
+"X0o-Jp-Y3S.text" = "此内容在代码中动态修改。";
+
+//##################################################################################
+//#           StoryboardAutoGenStrings        2017-05-04 18:05:15
+//##################################################################################
+
+
+"emU-MW-YBG.title" = "多语言";

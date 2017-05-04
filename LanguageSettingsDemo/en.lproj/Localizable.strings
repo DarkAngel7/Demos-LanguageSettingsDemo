@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LanguageSettingsDemo
+
+  Created by DarkAngel on 2017/5/4.
+  Copyright © 2017年 暗の天使. All rights reserved.
+*/
+
+"这是一个国际化标题" = "It's a dynamic title";
