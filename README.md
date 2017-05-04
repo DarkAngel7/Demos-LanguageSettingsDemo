@@ -1,3 +1,4 @@
+# 更多内容见[Blog](http://blog.darkangel7.com/)
 
 # 前言
 
