@@ -123,7 +123,9 @@
                             <constraint firstItem="X0o-Jp-Y3S" firstAttribute="centerX" secondItem="tah-mQ-96y" secondAttribute="centerX" id="Pn8-6n-xTQ"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" id="SW3-3O-8rN"/>
+                    <navigationItem key="navigationItem" id="SW3-3O-8rN">
+                        <barButtonItem key="backBarButtonItem" title="自定义返回" id="NWD-UK-2hh"/>
+                    </navigationItem>
                     <connections>
                         <outlet property="label" destination="X0o-Jp-Y3S" id="Anp-Lv-bZo"/>
                     </connections>
