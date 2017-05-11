@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A121625FC807A26016EE43244E61CDD1EAAFD808",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A58787A90E114D6934AD2226C79DAF66071F600E" : 9223372036854775807,
+    "A121625FC807A26016EE43244E61CDD1EAAFD808" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FDB47F48-9E33-45DD-9EB7-1E736648D25B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A58787A90E114D6934AD2226C79DAF66071F600E" : "LanguageSettingsDemo\/LanguageSettingsDemo\/",
+    "A121625FC807A26016EE43244E61CDD1EAAFD808" : "LanguageSettingsDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LanguageSettingsDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LanguageSettingsDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DarkAngel7\/Demos-LanguageSettingsDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A121625FC807A26016EE43244E61CDD1EAAFD808"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DarkAngel7\/Demos-LanguageSettingsDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A58787A90E114D6934AD2226C79DAF66071F600E"
+    }
+  ]
+}
